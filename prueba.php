@@ -1,3 +1,4 @@
 <?php
-  echo 'hola me cago';
+  $i = 0;
+  echo $i;
 ?>
