@@ -1,4 +1,3 @@
 <?php
-  $i = 0;
-  echo $i.'PepitoPerez';
+	echo 'Muchachos X';
 ?>
