@@ -1,3 +1,3 @@
 <?php
-	echo 'Muchachos X kdjfakdjk';
+	echo 'Muchacho';
 ?>
